@@ -17,7 +17,7 @@ This project uses [EasyOCR](https://github.com/JaidedAI/EasyOCR) to detect and e
 
 | Input Image                | Output with Detected Text                   |
 | -------------------------- | ------------------------------------------- |
-| ![Input](./data/test2.png) | ![Output](./output/result.png) *(If saved)* |
+| ![Input](./data/test2.png) | ![Output](./output/result.png)  |
 
 
 ---
